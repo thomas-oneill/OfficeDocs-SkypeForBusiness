@@ -244,7 +244,7 @@ In the meeting recap, your users can find the most important parts of a meeting,
 
 ### Meet app
 
-The Meet app in Teams allows users to view important details of their meetings including upcoming meetings, meeting recaps, meeting recordings, and meeting @mentions. To learn how to use the Meet app, see [Stay on top of meetings with Meet in Microsoft Teams](https://support.microsoft.com/office/stay-on-top-of-meetings-with-meet-in-microsoft-teams-ec6d712e-82a9-4c01-b106-b95486180b5d).
+The Meet app in Teams allows users to view important details of their meetings including upcoming meetings, meeting recaps, meeting recordings, and meeting @mentions. To learn how to use the Meet app, see [Stay on top of meetings with Meet in Microsoft Teams](https://support.microsoft.com/office/stay-on-top-of-meetings-with-meet-in-microsoft-teams-ec6d712e-82a9-4c01-b106-b95486180b5d). Please note, this is not available in GCC.
 
 | Feature | Teams | Teams Premium |
 |---------|:-----:|:-------------:|
